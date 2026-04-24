@@ -1,0 +1,15 @@
+{
+	"name": "timmydatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1321b884-39d3-4ebb-b311-f474f8e1075f",
+		"tenantId": "affc8ca0-9e03-4eb2-b770-46ca133de97f"
+	}
+}
